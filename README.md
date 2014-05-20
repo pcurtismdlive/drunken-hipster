@@ -7,4 +7,4 @@
 * Learn about using github.calm
 * Understand Local versus Remote Suppositories
 
-testing, coolie fosty testing.
+testing, coolie frosty testing.
