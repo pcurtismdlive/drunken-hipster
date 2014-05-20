@@ -2,4 +2,6 @@ Error 'Duplicate column name 'customer_id'' on query. Default database: 'telehea
 ADD COLUMN `customer_id` INT NULL AFTER `created_date`,
 ADD COLUMN `level2` VARCHAR(45) NULL AFTER `customer_id`'
 
-Things have been added
+Things have been added.
+
+More things added.
