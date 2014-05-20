@@ -1,0 +1,3 @@
+Error 'Duplicate column name 'customer_id'' on query. Default database: 'telehealth'. Query: 'ALTER TABLE `telehealth`.`provider_dispositions`
+ADD COLUMN `customer_id` INT NULL AFTER `created_date`,
+ADD COLUMN `level2` VARCHAR(45) NULL AFTER `customer_id`'
